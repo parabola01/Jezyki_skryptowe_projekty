@@ -6,4 +6,5 @@ Welcome to the repository containing three scripting language course projects: B
 - Bash : hangman game
 - Perl : program provides functionality for encoding and decoding text using the Caesar cipher and the Vigenère cipher
 - Python : password manager (using Vigenère cipher)
+
 For each project, you'll find a README file inside its folder providing instructions on how to run it and a brief description of its purpose. These projects were developed as part of the scripting languages course assignments.
